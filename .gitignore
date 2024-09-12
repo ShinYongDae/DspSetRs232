@@ -1,0 +1,13 @@
+Debug/
+Release/
+ipch/
+x64/
+DspSetRs232.sdf
+DspSetRs232.VC.db
+DspSetRs232.VC.VC.opendb
+DspSetRs232/Debug/
+DspSetRs232/x64/
+.vs/
+DspSetRs232/DspSetRs232.aps
+
+
